@@ -48,6 +48,12 @@ section p
   text-transform: uppercase;
   color: rgba(255,255,255,.03);
 }
+.preloader.active
+{
+  transform: translateY(-100vh);
+  transition: ease-in-out 2s;
+  transition-delay: 1s;
+}
 .counter
 {
   position: relative;
