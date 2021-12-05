@@ -62,3 +62,9 @@ section p
   font-size: 0.5em;
   
 }
+.hide
+{
+  opacity: 0;
+  transition: 1s;
+  pointer-events: none;
+}
