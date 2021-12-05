@@ -74,3 +74,8 @@ section p
   transition: 1s;
   pointer-events: none;
 }
+.burger
+{
+  height: 100px;
+  width: 75px;
+}
