@@ -542,3 +542,8 @@ img{
     right: 10%;
   }
 }
+i
+{
+  font-size: monospace;
+  color: yellowgreen;
+}
